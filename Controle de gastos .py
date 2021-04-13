@@ -6,7 +6,7 @@
 #VALOR DE CADA UMA das transações que realizou.
 
 #Seu programa deverá exibir, ao final, o valor total gasto pelo usuário e também a média do valor de cada transação.
-# Quantidade de valores gastos
+
 gastos = int(input("Quantas transações foram efetuadas no dia? "))
 
 # Todos os valores digitados
