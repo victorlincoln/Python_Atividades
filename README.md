@@ -4,4 +4,4 @@
 
 
 
-. Exercs
+. Exercícios
