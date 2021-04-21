@@ -12,5 +12,5 @@ while opcao != 3:
         for x in notas:
             print(x)
     elif opcao ==3:
-        #Para calcular a soma das notas da lista, método (sum) e (len) tamanho da lista
+        #Para calcular a soma das notas da lista, método (sum) de soma e (len) tamanho da lista
         print(sum(notas) / len(notas))
